@@ -13,7 +13,7 @@
 1.4. Дайте все права для пользователя sys_temp.
 
 1.5. Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
-![sql2](https://github.com/AndreyTest010/sdb-homework12-02/blob/main/sql2.jpg)
+![sql2](https://github.com/AndreyTest010/sdb-homeworks12-02/blob/main/sql2.jpg)
 
 1.6. Переподключитесь к базе данных от имени sys_temp.
 
@@ -28,7 +28,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.
 
-![sql3](https://github.com/AndreyTest010/sdb-homework12-02/blob/main/sql3.jpg)
+![sql3](https://github.com/AndreyTest010/sdb-homeworks12-02/blob/main/sql3.jpg)
 
 
 Задание 2
@@ -36,7 +36,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 Название таблицы | Название первичного ключа
 customer         | customer_id
-![sql4](https://github.com/AndreyTest010/sdb-homework12-02/blob/main/sql4.jpg)
+![sql4](https://github.com/AndreyTest010/sdb-homeworks12-02/blob/main/sql4.jpg)
 
 
 
@@ -46,6 +46,6 @@ customer         | customer_id
 3.2. Выполните запрос на получение списка прав для пользователя sys_temp. (скриншот)
 
 Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.
-![sql5](https://github.com/AndreyTest010/sdb-homework12-02/blob/main/sql5.jpg)
+![sql5](https://github.com/AndreyTest010/sdb-homeworks12-02/blob/main/sql5.jpg)
 
 
