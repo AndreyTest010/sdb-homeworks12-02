@@ -7,7 +7,8 @@
 1.2. Создайте учётную запись sys_temp.
 
 1.3. Выполните запрос на получение списка пользователей в базе данных. (скриншот)
-![sql1](https://github.com/AndreyTest010/sdb-homework12-02/blob/main/sql1.jpg)
+
+![sql1](https://github.com/AndreyTest010/sdb-homework12-02/edit/main/sql1.jpg)
 
 1.4. Дайте все права для пользователя sys_temp.
 
